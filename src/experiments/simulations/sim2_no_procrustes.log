@@ -1,0 +1,444 @@
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.1000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 6.91125
+model t2: 0.651602
+model betas: 
+        0   0.0018        0
+        0        0   0.1735
+        0        0        0
+
+model radius: 
+        0   0.0019        0
+        0        0   0.9981
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.1000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 4.20396
+model t2: 0.588003
+model betas: 
+        0   0.0020        0
+        0        0   0.1533
+        0        0        0
+
+model radius: 
+        0   0.0016        0
+        0        0   0.9984
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.1000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 4.55676
+model t2: 0.453331
+model betas: 
+        0   0.0110        0
+        0        0   0.1262
+        0        0        0
+
+model radius: 
+        0   0.0087        0
+        0        0   0.9913
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.1000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.5000        0
+        0        0   0.5000
+        0        0        0
+
+model s2: 1.89267
+model t2: 0.335043
+model betas: 
+        0   1.4244        0
+        0        0   0.1436
+        0        0        0
+
+model radius: 
+        0   0.5036        0
+        0        0   0.4964
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.0500
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 25.853
+model t2: 0.916867
+model betas: 
+            0   6.2194e-01            0
+            0            0   1.1590e-05
+            0            0            0
+
+model radius: 
+        0   0.9947        0
+        0        0   0.0053
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.0200
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 56.3364
+model t2: 1.1463
+model betas: 
+            0   4.9145e-01            0
+            0            0   3.0372e-06
+            0            0            0
+
+model radius: 
+        0   0.9996        0
+        0        0   0.0004
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.0000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 2.23674
+model t2: 0.244152
+model betas: 
+        0   0.5899        0
+        0        0   0.3281
+        0        0        0
+
+model radius: 
+        0   0.2653        0
+        0        0   0.7347
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   0.8000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 1.75681
+model t2: 0.253835
+model betas: 
+        0   0.6361        0
+        0        0   0.2884
+        0        0        0
+
+model radius: 
+        0   0.2553        0
+        0        0   0.7447
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   1.2000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 2.44804
+model t2: 0.329222
+model betas: 
+        0   0.0100        0
+        0        0   0.2512
+        0        0        0
+
+model radius: 
+        0   0.0064        0
+        0        0   0.9936
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   0.7000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 1.97633
+model t2: 0.340363
+model betas: 
+        0   0.0175        0
+        0        0   0.2382
+        0        0        0
+
+model radius: 
+        0   0.0137        0
+        0        0   0.9863
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   0.9000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 2.92567
+model t2: 0.404277
+model betas: 
+        0   0.0080        0
+        0        0   0.2671
+        0        0        0
+
+model radius: 
+        0   0.0055        0
+        0        0   0.9945
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000
+model s2: 0
+model t2: 0
+model betas: 
+   1.0000   0.8000   1.0000
+   1.0000   1.0000   0.2000
+   1.0000   1.0000   1.0000
+
+model radius: 
+        0   0.3000        0
+        0        0   0.7000
+        0        0        0
+
+model s2: 0.269374
+model t2: 0.292063
+model betas: 
+            0   5.6967e-01            0
+            0            0   6.9650e+08
+            0            0            0
+
+model radius: 
+        0   0.5028        0
+        0        0   0.4972
+        0        0        0
+
+s2 scale: 1
+t2 scale: 1
+beta scale: 0.5
+total steps: 10000
+current step: 10000
+burn-in steps: 2000
+step size for each type of nodes: 
+   0.2000
+   0.2000
+   0.2000
+
+beta step size: 0.1
+radius kappa: 10000

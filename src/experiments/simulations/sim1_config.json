@@ -1,0 +1,29 @@
+{
+  "adj_mat_files" : [
+    "sim_1_t1.csv",
+    "sim_1_t2.csv",
+    "sim_1_t3.csv",
+    "sim_1_t4.csv"
+  ],
+  "types_file" : "sim_1_types.csv",
+
+  "space_dim" : 2,
+  "regression_type" : 0,
+
+  "links_types_interested": [
+    [0,0],
+    [0,1],
+    [1,0]
+  ],
+
+  "total_steps" : 6000,
+  "burn_in_steps" : 0,
+
+  "position_step_size" : [0.01, 0.01],
+  "beta_step_size" : 0.08,
+  "radius_kappa" : 50000,
+
+  "s2_scale" : 0.5,
+  "t2_scale" : 0.02,
+  "beta_scale" : 1
+}

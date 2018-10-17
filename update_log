@@ -1,0 +1,23 @@
+Agenda for April, 2018
+
+04/12/2018
+
+Task 1: file < --- > memory conversion
+Task 2: finish debuging
+Task 3: run a MCMC on my laptop using the program compiled
+Task 4: use SSH to run it on a remote host
+Task 5: write a program on Word-Author dataset
+Task 6: analyze the results
+
+-------------------------------------------------------------
+
+04/13/2018
+
+Task 1 /
+
+compiling command needs to link blas and lapack:
+-llapack -lblas
+
+Task 2 /
+
+--------------------------------------------------------------

@@ -1,0 +1,27 @@
+{
+  "adj_mat_files" : [
+    "klas12b-net-1.dat",
+    "klas12b-net-2.dat",
+    "klas12b-net-3.dat",
+    "klas12b-net-4.dat"
+  ],
+  "types_file" : "classroom_types.csv",
+
+  "space_dim" : 2,
+  "regression_type" : 0,
+
+  "total_steps" : 10000,
+  "burn_in_steps" : 5000,
+
+  "s2_scale" : 1,
+  "t2_scale" : 1,
+  "beta_scale" : 1,
+
+  "links_types_interested" : [
+    [0,0]
+  ],
+
+  "position_step_size" : [2],
+  "beta_step_size" : 0.1,
+  "radius_kappa" : 10000
+}

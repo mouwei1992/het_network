@@ -1,0 +1,9 @@
+{
+  "n_nodes_each_cluster": [80, 80, 80],
+  "time_length": 4,
+  "space_dimension": 2,
+
+  "var_clusters": 3,
+  "var_points": 0.04,
+  "step_size": 0.1
+}
